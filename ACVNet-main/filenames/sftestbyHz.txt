@@ -1,0 +1,3 @@
+RGB_cleanpass/left/0006.png RGB_cleanpass/right/0006.png disparity/0006.pfm
+RGB_cleanpass/left/0007.png RGB_cleanpass/right/0007.png disparity/0007.pfm
+RGB_cleanpass/left/0008.png RGB_cleanpass/right/0008.png disparity/0008.pfm
